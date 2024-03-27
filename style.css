@@ -11,14 +11,14 @@ h3 {
     margin-top: -3px;
     font-family: "Neuzon W00 Regular";
     font-weight:lighter;
-    padding-right: 5px;
+    padding-right: 0px;
     letter-spacing: 1px;
 }
 @font-face {
 	font-family: 'Monotype Corsiva';
 	src: url('../fonts/monotype_corsiva.ttf') format('truetype'),
              url('../fonts/monotype_corsiva.svg#monotype_corsiva') format('svg');  
-}}
+}
 h1 {
     font-family:'Monotype Corsiva' ;
     text-align: center;
